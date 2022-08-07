@@ -1,0 +1,2 @@
+# googlehostadsblock
+block ads
